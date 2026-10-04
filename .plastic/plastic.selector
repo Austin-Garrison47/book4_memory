@@ -1,0 +1,4 @@
+repository "book4_memory/book4_memory@20067638083717@cloud"
+  path "/"
+    br "/main"
+    co "/main"
